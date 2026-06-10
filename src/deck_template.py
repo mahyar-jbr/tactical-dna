@@ -187,6 +187,15 @@ ul.k li:before{content:"";position:absolute;left:0;top:13px;width:11px;height:11
   background:var(--red);border-radius:3px;transform:rotate(45deg)}
 .colh{font-size:20px;font-weight:850;color:var(--red-soft);margin-bottom:14px;letter-spacing:.01em}
 
+/* GitHub repo card on the close slide */
+.repo{display:inline-flex;align-items:center;gap:14px;margin-top:26px;text-decoration:none;
+  background:#fff;border:1px solid var(--line);border-radius:14px;padding:14px 22px;
+  box-shadow:0 8px 24px rgba(20,20,40,.08);transition:transform .15s,box-shadow .15s}
+.repo:hover{transform:translateY(-2px);box-shadow:0 12px 30px rgba(20,20,40,.14)}
+.repo span{display:flex;flex-direction:column;text-align:left}
+.repo b{font-size:18px;font-weight:850;color:var(--ink);line-height:1.2}
+.repo small{font-size:13px;color:var(--mut);font-weight:600;margin-top:2px}
+
 /* methods slide: feature families + notes */
 .featgrid{display:flex;flex-direction:column;gap:14px}
 .featcard{display:flex;align-items:center;gap:18px;background:#fff;border:1px solid var(--line);
@@ -569,8 +578,12 @@ _SLIDES = f"""
     <h2 class="fx" style="font-size:66px;max-width:none;color:var(--ink)">Tactical&nbsp;DNA</h2>
     <div class="lead fx" style="max-width:none;color:var(--red);font-size:26px;margin-top:12px;font-weight:600">
       Qualitative tactics, made measurable.</div>
-    <div class="fx" style="margin-top:32px;font-size:22px;font-weight:800;color:var(--ink)">Thank you. Questions?</div>
-    <div class="fx" style="margin-top:12px;font-size:16px;color:var(--mut)">
+    <div class="fx" style="margin-top:30px;font-size:22px;font-weight:800;color:var(--ink)">Thank you. Questions?</div>
+    <a class="repo fx" href="https://github.com/mahyar-jbr/tactical-dna" target="_blank">
+      <svg viewBox="0 0 24 24" width="22" height="22" fill="#16161d"><path d="M12 2a10 10 0 0 0-3.16 19.49c.5.09.68-.22.68-.48v-1.7c-2.78.6-3.37-1.34-3.37-1.34-.45-1.16-1.11-1.47-1.11-1.47-.91-.62.07-.6.07-.6 1 .07 1.53 1.03 1.53 1.03.9 1.53 2.36 1.09 2.94.83.09-.65.35-1.09.63-1.34-2.22-.25-4.55-1.11-4.55-4.94 0-1.09.39-1.98 1.03-2.68-.1-.25-.45-1.27.1-2.65 0 0 .84-.27 2.75 1.02a9.5 9.5 0 0 1 5 0c1.91-1.29 2.75-1.02 2.75-1.02.55 1.38.2 2.4.1 2.65.64.7 1.03 1.59 1.03 2.68 0 3.84-2.34 4.69-4.57 4.94.36.31.68.92.68 1.85v2.74c0 .27.18.58.69.48A10 10 0 0 0 12 2Z"/></svg>
+      <span><b>github.com/mahyar-jbr/tactical-dna</b><small>Run it yourself · use your own data · full paper &amp; outputs</small></span>
+    </a>
+    <div class="fx" style="margin-top:18px;font-size:16px;color:var(--mut)">
       Mahyar Jaberi · mhyrjbr@my.yorku.ca · EECS 4414, York University</div>
   </div>
 </section>
