@@ -1,0 +1,260 @@
+{
+  "team": "Barcelona",
+  "competition_id": 11,
+  "competition_name": "La Liga",
+  "min_matches_per_season": 10,
+  "seasons": [
+    {
+      "competition_id": 11,
+      "season_id": 38,
+      "season_name": "2005/2006",
+      "barca_matches": 17
+    },
+    {
+      "competition_id": 11,
+      "season_id": 39,
+      "season_name": "2006/2007",
+      "barca_matches": 26
+    },
+    {
+      "competition_id": 11,
+      "season_id": 40,
+      "season_name": "2007/2008",
+      "barca_matches": 27
+    },
+    {
+      "competition_id": 11,
+      "season_id": 41,
+      "season_name": "2008/2009",
+      "barca_matches": 31
+    },
+    {
+      "competition_id": 11,
+      "season_id": 21,
+      "season_name": "2009/2010",
+      "barca_matches": 35
+    },
+    {
+      "competition_id": 11,
+      "season_id": 22,
+      "season_name": "2010/2011",
+      "barca_matches": 33
+    },
+    {
+      "competition_id": 11,
+      "season_id": 23,
+      "season_name": "2011/2012",
+      "barca_matches": 37
+    },
+    {
+      "competition_id": 11,
+      "season_id": 24,
+      "season_name": "2012/2013",
+      "barca_matches": 32
+    },
+    {
+      "competition_id": 11,
+      "season_id": 25,
+      "season_name": "2013/2014",
+      "barca_matches": 31
+    },
+    {
+      "competition_id": 11,
+      "season_id": 26,
+      "season_name": "2014/2015",
+      "barca_matches": 38
+    },
+    {
+      "competition_id": 11,
+      "season_id": 27,
+      "season_name": "2015/2016",
+      "barca_matches": 38
+    },
+    {
+      "competition_id": 11,
+      "season_id": 2,
+      "season_name": "2016/2017",
+      "barca_matches": 34
+    },
+    {
+      "competition_id": 11,
+      "season_id": 1,
+      "season_name": "2017/2018",
+      "barca_matches": 36
+    },
+    {
+      "competition_id": 11,
+      "season_id": 4,
+      "season_name": "2018/2019",
+      "barca_matches": 34
+    },
+    {
+      "competition_id": 11,
+      "season_id": 42,
+      "season_name": "2019/2020",
+      "barca_matches": 33
+    },
+    {
+      "competition_id": 11,
+      "season_id": 90,
+      "season_name": "2020/2021",
+      "barca_matches": 35
+    }
+  ],
+  "dropped_seasons": [
+    {
+      "competition_id": 11,
+      "season_id": 278,
+      "season_name": "1973/1974",
+      "barca_matches": 1
+    },
+    {
+      "competition_id": 11,
+      "season_id": 37,
+      "season_name": "2004/2005",
+      "barca_matches": 7
+    }
+  ],
+  "all_la_liga_seasons": [
+    {
+      "competition_id": 11,
+      "season_id": 278,
+      "season_name": "1973/1974",
+      "barca_matches": 1
+    },
+    {
+      "competition_id": 11,
+      "season_id": 37,
+      "season_name": "2004/2005",
+      "barca_matches": 7
+    },
+    {
+      "competition_id": 11,
+      "season_id": 38,
+      "season_name": "2005/2006",
+      "barca_matches": 17
+    },
+    {
+      "competition_id": 11,
+      "season_id": 39,
+      "season_name": "2006/2007",
+      "barca_matches": 26
+    },
+    {
+      "competition_id": 11,
+      "season_id": 40,
+      "season_name": "2007/2008",
+      "barca_matches": 27
+    },
+    {
+      "competition_id": 11,
+      "season_id": 41,
+      "season_name": "2008/2009",
+      "barca_matches": 31
+    },
+    {
+      "competition_id": 11,
+      "season_id": 21,
+      "season_name": "2009/2010",
+      "barca_matches": 35
+    },
+    {
+      "competition_id": 11,
+      "season_id": 22,
+      "season_name": "2010/2011",
+      "barca_matches": 33
+    },
+    {
+      "competition_id": 11,
+      "season_id": 23,
+      "season_name": "2011/2012",
+      "barca_matches": 37
+    },
+    {
+      "competition_id": 11,
+      "season_id": 24,
+      "season_name": "2012/2013",
+      "barca_matches": 32
+    },
+    {
+      "competition_id": 11,
+      "season_id": 25,
+      "season_name": "2013/2014",
+      "barca_matches": 31
+    },
+    {
+      "competition_id": 11,
+      "season_id": 26,
+      "season_name": "2014/2015",
+      "barca_matches": 38
+    },
+    {
+      "competition_id": 11,
+      "season_id": 27,
+      "season_name": "2015/2016",
+      "barca_matches": 38
+    },
+    {
+      "competition_id": 11,
+      "season_id": 2,
+      "season_name": "2016/2017",
+      "barca_matches": 34
+    },
+    {
+      "competition_id": 11,
+      "season_id": 1,
+      "season_name": "2017/2018",
+      "barca_matches": 36
+    },
+    {
+      "competition_id": 11,
+      "season_id": 4,
+      "season_name": "2018/2019",
+      "barca_matches": 34
+    },
+    {
+      "competition_id": 11,
+      "season_id": 42,
+      "season_name": "2019/2020",
+      "barca_matches": 33
+    },
+    {
+      "competition_id": 11,
+      "season_id": 90,
+      "season_name": "2020/2021",
+      "barca_matches": 35
+    }
+  ],
+  "total_barca_matches": 517,
+  "availability": {
+    "la_liga_seasons": [
+      "1973/1974",
+      "2004/2005",
+      "2005/2006",
+      "2006/2007",
+      "2007/2008",
+      "2008/2009",
+      "2009/2010",
+      "2010/2011",
+      "2011/2012",
+      "2012/2013",
+      "2013/2014",
+      "2014/2015",
+      "2015/2016",
+      "2016/2017",
+      "2017/2018",
+      "2018/2019",
+      "2019/2020",
+      "2020/2021"
+    ],
+    "world_cup_2018": true,
+    "world_cup_2022": true,
+    "bayern_bundesliga_2015_16": true
+  },
+  "bayern_transfer_target": {
+    "competition_id": 9,
+    "season_id": 27,
+    "season_name": "2015/2016",
+    "team": "Bayern Munich"
+  }
+}

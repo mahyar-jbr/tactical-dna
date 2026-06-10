@@ -1,0 +1,26 @@
+
+CLUSTER 0: 227 networks | competitions={'LaLiga': np.int64(82), 'WC2018': np.int64(75), 'WC2022': np.int64(70)}
+  top teams: {'Barcelona': np.int64(82), 'Poland': np.int64(7), 'Uruguay': np.int64(7), 'France': np.int64(7), 'Morocco': np.int64(7)}
+  labelled coaches: {'Rijkaard': np.int64(18), 'L.Enrique': np.int64(18), 'Guardiola': np.int64(17), 'Martino': np.int64(12), 'Valverde': np.int64(8)}
+  sample matches:
+    Barcelona              | LaLiga      | Rijkaard   | 2007-05-20
+    Uruguay                | WC2018      | nan        | 2018-06-30
+    Barcelona              | LaLiga      | Rijkaard   | 2008-02-09
+    Saudi Arabia           | WC2018      | nan        | 2018-06-25
+    Belgium                | WC2018      | nan        | 2018-07-14
+    Barcelona              | LaLiga      | Setien     | 2020-02-15
+    Australia              | WC2018      | nan        | 2018-06-26
+    Panama                 | WC2018      | nan        | 2018-06-18
+
+CLUSTER 1: 547 networks | competitions={'LaLiga': np.int64(435), 'WC2022': np.int64(57), 'WC2018': np.int64(53), 'Bundesliga': np.int64(2)}
+  top teams: {'Barcelona': np.int64(435), 'Croatia': np.int64(9), 'Portugal': np.int64(8), 'Spain': np.int64(8), 'England': np.int64(8)}
+  labelled coaches: {'Guardiola': np.int64(121), 'L.Enrique': np.int64(96), 'Valverde': np.int64(76), 'Rijkaard': np.int64(52), 'Koeman': np.int64(30)}
+  sample matches:
+    Barcelona              | LaLiga      | Vilanova   | 2012-09-29
+    Barcelona              | LaLiga      | Guardiola  | 2009-09-22
+    Barcelona              | LaLiga      | Valverde   | 2019-02-02
+    Barcelona              | LaLiga      | Guardiola  | 2010-01-30
+    Barcelona              | LaLiga      | Valverde   | 2019-03-30
+    Barcelona              | LaLiga      | Martino    | 2014-03-08
+    Barcelona              | LaLiga      | Vilanova   | 2012-10-20
+    Barcelona              | LaLiga      | L.Enrique  | 2015-04-18

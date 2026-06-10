@@ -1,0 +1,4 @@
+model,n_bayern,guardiola_rate,guardiola_count,pred_Rijkaard,pred_Guardiola,pred_Vilanova,pred_Martino,pred_L.Enrique,pred_Valverde,pred_Setien,pred_Koeman
+Logistic Regression,2,0.0,0,0,0,0,1,0,1,0,0
+Random Forest,2,0.0,0,0,0,0,0,2,0,0,0
+XGBoost,2,0.0,0,1,0,0,0,0,1,0,0

@@ -1,0 +1,19 @@
+# --- never publish: machine-specific / too large for GitHub ---
+# (cache/ is 3.4 GB of raw StatsBomb data; regenerated from source, see README)
+.venv/
+cache/
+
+# --- python junk ---
+__pycache__/
+*.pyc
+*.pyo
+
+# --- OS / editor junk ---
+.DS_Store
+.claude/
+
+# --- scratch run logs (keep the real CSV/PNG/JSON outputs) ---
+outputs/*.log
+
+# --- empty placeholder ---
+code.zip

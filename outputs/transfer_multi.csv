@@ -1,0 +1,10 @@
+group,true_coach,n,model,recovered,recovery_rate,breakdown
+Guardiola @ Bayern 2015/16,Guardiola,2,Logistic Regression,0,0.0,"Martino:1, Valverde:1"
+Guardiola @ Bayern 2015/16,Guardiola,2,Random Forest,0,0.0,L.Enrique:2
+Guardiola @ Bayern 2015/16,Guardiola,2,XGBoost,0,0.0,"Rijkaard:1, Valverde:1"
+L.Enrique @ Spain WC2022,L.Enrique,4,Logistic Regression,1,0.25,"Valverde:1, Setien:1, Guardiola:1, L.Enrique:1"
+L.Enrique @ Spain WC2022,L.Enrique,4,Random Forest,1,0.25,"Guardiola:3, L.Enrique:1"
+L.Enrique @ Spain WC2022,L.Enrique,4,XGBoost,3,0.75,"L.Enrique:3, Guardiola:1"
+Martino @ Mexico WC2022,Martino,3,Logistic Regression,1,0.3333333333333333,"Rijkaard:1, L.Enrique:1, Martino:1"
+Martino @ Mexico WC2022,Martino,3,Random Forest,0,0.0,"Guardiola:1, L.Enrique:1, Rijkaard:1"
+Martino @ Mexico WC2022,Martino,3,XGBoost,0,0.0,"L.Enrique:2, Rijkaard:1"

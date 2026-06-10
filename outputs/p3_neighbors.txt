@@ -1,0 +1,50 @@
+
+[Xavi]  (Barcelona, Right Center Midfield, 222 apps) — 10 nearest in role space:
+    1. Thiago Alcântara         (Barcelona    Left Center Midfield   MID)
+    2. Cesc Fàbregas            (Barcelona    Left Center Midfield   MID)
+    3. Miralem Pjanić           (Barcelona    Right Defensive Midfield MID)
+    4. Arthur                   (Barcelona    Left Center Midfield   MID)
+    5. Marcelo Brozović         (Croatia      Center Defensive Midfield MID)
+    6. Frenkie de Jong          (Barcelona    Right Center Midfield  MID)
+    7. Sergio Busquets          (Barcelona    Center Defensive Midfield MID)
+    8. Carles Aleñà             (Barcelona    Left Center Midfield   MID)
+    9. Andrés Iniesta           (Barcelona    Left Center Midfield   MID)
+   10. William Carvalho         (Portugal     Left Center Midfield   MID)
+
+[Luka Modrić]  (Croatia, Right Center Midfield, 14 apps) — 10 nearest in role space:
+    1. Bernardo Silva           (Portugal     Right Center Midfield  MID)
+    2. Frenkie de Jong          (Barcelona    Right Center Midfield  MID)
+    3. Ivan Rakitić             (Barcelona    Right Center Midfield  MID)
+    4. Deco                     (Barcelona    Left Center Midfield   MID)
+    5. Marcelo Brozović         (Croatia      Center Defensive Midfield MID)
+    6. Arturo Vidal             (Barcelona    Right Center Midfield  MID)
+    7. Paulinho                 (Barcelona    Right Defensive Midfield MID)
+    8. Cesc Fàbregas            (Barcelona    Left Center Midfield   MID)
+    9. Rodrigo De Paul          (Argentina    Right Center Midfield  MID)
+   10. Ivan Rakitić             (Croatia      Left Center Midfield   MID)
+
+[Andrés Iniesta]  (Barcelona, Left Center Midfield, 255 apps) — 10 nearest in role space:
+    1. Arthur                   (Barcelona    Left Center Midfield   MID)
+    2. Mateo Kovačić            (Croatia      Left Center Midfield   MID)
+    3. Cesc Fàbregas            (Barcelona    Left Center Midfield   MID)
+    4. Sergio Busquets          (Barcelona    Center Defensive Midfield MID)
+    5. Frenkie de Jong          (Barcelona    Right Center Midfield  MID)
+    6. Deco                     (Barcelona    Left Center Midfield   MID)
+    7. André Gomes              (Barcelona    Left Center Midfield   MID)
+    8. Philippe Coutinho        (Barcelona    Left Wing              FWD)
+    9. Riqui Puig               (Barcelona    Left Center Midfield   MID)
+   10. Yaya Touré               (Barcelona    Center Defensive Midfield MID)
+
+[Toni Kroos] NOT in corpus (>= 5 starts).
+
+[Sergio Busquets]  (Barcelona, Center Defensive Midfield, 342 apps) — 10 nearest in role space:
+    1. Alexandre Dimitri Song-Billong (Barcelona    Center Defensive Midfield MID)
+    2. Arthur                   (Barcelona    Left Center Midfield   MID)
+    3. Yaya Touré               (Barcelona    Center Defensive Midfield MID)
+    4. Javier Mascherano        (Barcelona    Left Center Back       DEF)
+    5. Nicolás Otamendi         (Argentina    Left Center Back       DEF)
+    6. Frenkie de Jong          (Barcelona    Right Center Midfield  MID)
+    7. William Carvalho         (Portugal     Left Center Midfield   MID)
+    8. Manuel Akanji            (Switzerland  Left Center Back       DEF)
+    9. Miralem Pjanić           (Barcelona    Right Defensive Midfield MID)
+   10. Ivan Rakitić             (Barcelona    Right Center Midfield  MID)

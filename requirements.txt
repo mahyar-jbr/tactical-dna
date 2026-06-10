@@ -1,0 +1,9 @@
+statsbombpy==1.18.0
+networkx==3.6.1
+pandas==3.0.3
+numpy==2.4.6
+scipy==1.17.1
+scikit-learn==1.8.0
+matplotlib==3.10.9
+xgboost==3.2.0
+umap-learn==0.5.12
